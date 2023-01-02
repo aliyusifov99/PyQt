@@ -86,5 +86,5 @@ app = QApplication(sys.argv)
 
 window = MainWindow(app)
 window.show()
-
+print('hello')
 app.exec()
